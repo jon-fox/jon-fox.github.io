@@ -41,5 +41,4 @@ Building Applied AI applications with agent-based architectures and scalable clo
 ## Contact
 
 **LinkedIn:** [Jonathan Fox](https://www.linkedin.com/in/jonathan-fox-8b0a08b8/)  
-**GitHub:** [@jon-fox](https://github.com/jon-fox)  
-**Email:** contact@jonfox.dev
+**GitHub:** [@jon-fox](https://github.com/jon-fox)

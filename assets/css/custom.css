@@ -39,7 +39,15 @@ ul, ol {
 }
 
 li {
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.75rem;
+    font-size: 1.1rem;
+}
+
+/* Center skills section */
+#skills + p {
+    text-align: center;
+    font-size: 1.15rem;
+    line-height: 2;
 }
 
 /* Add spacing to sections */

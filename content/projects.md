@@ -8,9 +8,7 @@ draft: false
 
 ---
 
-## Agent Management REST API
-
-**Laravel • MySQL • Docker**
+**Agent Management REST API**
 
 Modern REST API for managing AI agents and tasks with Laravel Eloquent ORM.
 
