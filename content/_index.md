@@ -4,29 +4,30 @@ date: 2025-11-15
 draft: false
 ---
 
-# Software Engineer & Developer
+# Machine Learning Engineer
 
-Welcome to my portfolio. I build scalable web applications and RESTful APIs using modern technologies.
+Specializing in **Applied AI Applications** with backend and frontend experience in agent building, MCP servers, and cloud infrastructure.
 
-## Featured Projects
+---
+
+## Featured Project
 
 ### Agent Management REST API
-A production-ready REST API built with PHP and Laravel Eloquent ORM, featuring:
-- 14 RESTful endpoints with full CRUD operations
-- Laravel Sanctum authentication
-- Docker containerization
-- Automated deployment scripts
 
-[View Project Details →](/projects/rest-api)
+Production-ready REST API with Laravel Eloquent ORM featuring 14 endpoints, authentication, and Docker deployment.
+
+[GitHub Repository →](https://github.com/jon-fox/rest-api-php-server-project)
+
+---
 
 ## Skills
 
-**Backend:** PHP, Laravel, Node.js  
-**Databases:** MySQL, PostgreSQL  
-**DevOps:** Docker, Docker Compose, NGINX, GitHub Actions  
-**Tools:** Git, Composer, Hugo
+Python • FastAPI • FastMCP • MCP Servers • Agent Building • OpenAI • AWS • GCP • Terraform • RESTful APIs
 
-## Contact
+---
 
-- GitHub: [@jon-fox](https://github.com/jon-fox)
-- Email: contact@jonfox.dev
+## Connect
+
+**LinkedIn:** [Jonathan Fox](https://www.linkedin.com/in/jonathan-fox-8b0a08b8/)  
+**GitHub:** [@jon-fox](https://github.com/jon-fox)  
+**Email:** contact@jonfox.dev

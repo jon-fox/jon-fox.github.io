@@ -6,48 +6,40 @@ draft: false
 
 # About Me
 
-Software engineer with expertise in building scalable web applications and RESTful APIs.
+Machine Learning Engineer specializing in Applied AI Applications, with backend and frontend development experience in building agent systems and cloud infrastructure.
+
+---
 
 ## Education
 
-**Northern Kentucky University**  
-Computer Science Major
+**Northern Kentucky University** — Computer Science
+
+---
 
 ## Technical Skills
 
-### Backend Development
-- PHP (Laravel, Eloquent ORM)
-- Node.js
-- RESTful API Design
-- Authentication (JWT, Laravel Sanctum)
+**Applied AI & Agents**  
+OpenAI integration • Agent building • MCP servers • FastMCP • Intelligent systems
 
-### Database
-- MySQL
-- PostgreSQL
-- Database Design & Optimization
+**Backend Development**  
+Python • FastAPI • RESTful APIs • API design & integration
 
-### DevOps & Tools
-- Docker & Docker Compose
-- GitHub Actions (CI/CD)
-- NGINX Configuration
-- Shell Scripting (Bash)
+**Frontend Development**  
+Modern web technologies • User interfaces
 
-### Frontend
-- JavaScript (ES6+)
-- HTML5 & CSS3
-- Responsive Design
+**Cloud & Infrastructure**  
+AWS • GCP • Terraform • Docker • MySQL • NGINX • CI/CD
 
-## Recent Work
+---
 
-Currently focusing on building modern web applications with emphasis on:
-- Clean architecture and design patterns
-- Container orchestration
-- Automated deployment pipelines
-- API security best practices
+## Current Focus
 
-## Get In Touch
+Building Applied AI applications with agent-based architectures and scalable cloud infrastructure.
 
-Feel free to reach out for collaboration opportunities or questions about my projects.
+---
 
-- GitHub: [@jon-fox](https://github.com/jon-fox)
-- Email: contact@jonfox.dev
+## Contact
+
+**LinkedIn:** [Jonathan Fox](https://www.linkedin.com/in/jonathan-fox-8b0a08b8/)  
+**GitHub:** [@jon-fox](https://github.com/jon-fox)  
+**Email:** contact@jonfox.dev

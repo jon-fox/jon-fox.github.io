@@ -6,25 +6,22 @@ draft: false
 
 # Projects
 
+---
+
 ## Agent Management REST API
 
-**Laravel • MySQL • Docker • GitHub Actions**
+**Laravel • MySQL • Docker**
 
-A modern REST API for managing AI agents and their tasks. Built with Laravel Eloquent ORM and containerized for easy deployment.
+Modern REST API for managing AI agents and tasks with Laravel Eloquent ORM.
 
-**Key Features:**
-- 14 RESTful endpoints
-- Laravel Sanctum authentication
-- Eloquent ORM with model relationships
-- Docker & Docker Compose deployment
-- One-command setup scripts
+**Features:** 14 RESTful endpoints • Laravel Sanctum authentication • Docker deployment • One-command setup
 
-**Tech Stack:** PHP 8.2, Laravel Components, MySQL 8.0, Docker, NGINX
+**Tech:** PHP 8.2 • Laravel • MySQL 8.0 • Docker • NGINX
 
-[View Documentation →](/projects/rest-api) | [GitHub →](https://github.com/jon-fox/rest-api-php-server-project)
+[GitHub Repository →](https://github.com/jon-fox/rest-api-php-server-project)
 
 ---
 
-## More Projects Coming Soon
+## More Coming Soon
 
-Stay tuned for additional portfolio projects...
+Additional Applied AI projects in development...
