@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jon Fox on Jon Fox - Software Engineer</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Jon Fox on Jon Fox - Software Engineer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;&#xA;&lt;p&gt;Software engineer with expertise in building scalable web applications and RESTful APIs.&lt;/p&gt;&#xA;&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Northern Kentucky University&lt;/strong&gt;&lt;br&gt;&#xA;Computer Science Major&lt;/p&gt;&#xA;&lt;h2 id=&#34;technical-skills&#34;&gt;Technical Skills&lt;/h2&gt;&#xA;&lt;h3 id=&#34;backend-development&#34;&gt;Backend Development&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;PHP (Laravel, Eloquent ORM)&lt;/li&gt;&#xA;&lt;li&gt;Node.js&lt;/li&gt;&#xA;&lt;li&gt;RESTful API Design&lt;/li&gt;&#xA;&lt;li&gt;Authentication (JWT, Laravel Sanctum)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;database&#34;&gt;Database&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;MySQL&lt;/li&gt;&#xA;&lt;li&gt;PostgreSQL&lt;/li&gt;&#xA;&lt;li&gt;Database Design &amp;amp; Optimization&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;devops--tools&#34;&gt;DevOps &amp;amp; Tools&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Docker &amp;amp; Docker Compose&lt;/li&gt;&#xA;&lt;li&gt;GitHub Actions (CI/CD)&lt;/li&gt;&#xA;&lt;li&gt;NGINX Configuration&lt;/li&gt;&#xA;&lt;li&gt;Shell Scripting (Bash)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;frontend&#34;&gt;Frontend&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;JavaScript (ES6+)&lt;/li&gt;&#xA;&lt;li&gt;HTML5 &amp;amp; CSS3&lt;/li&gt;&#xA;&lt;li&gt;Responsive Design&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;recent-work&#34;&gt;Recent Work&lt;/h2&gt;&#xA;&lt;p&gt;Currently focusing on building modern web applications with emphasis on:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Agent Management REST API</title>
+      <link>http://localhost:1313/projects/rest-api/</link>
+      <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/rest-api/</guid>
+      <description>&lt;h1 id=&#34;laravel-rest-api-with-docker-deployment&#34;&gt;Laravel REST API with Docker Deployment&lt;/h1&gt;&#xA;&lt;p&gt;A modern REST API built with Laravel&amp;rsquo;s Eloquent ORM, featuring containerized deployment and comprehensive documentation.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Laravel Framework&lt;/strong&gt;: Using Eloquent ORM for clean, maintainable database operations&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Authentication&lt;/strong&gt;: Laravel Sanctum-based token authentication&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Docker Support&lt;/strong&gt;: One-command deployment with &lt;code&gt;setup.sh&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Shell Script Deployment&lt;/strong&gt;: Traditional deployment with &lt;code&gt;run.sh&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;14 API Endpoints&lt;/strong&gt;: Complete agent and task management system&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;quick-start&#34;&gt;Quick Start&lt;/h2&gt;&#xA;&lt;h3 id=&#34;docker-deployment&#34;&gt;Docker Deployment&lt;/h3&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;./setup.sh&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;shell-script-deployment&#34;&gt;Shell Script Deployment&lt;/h3&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;./run.sh&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;api-overview&#34;&gt;API Overview&lt;/h2&gt;&#xA;&lt;p&gt;The API manages agents, tasks, tools, and execution logs:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h1 id=&#34;projects&#34;&gt;Projects&lt;/h1&gt;&#xA;&lt;h2 id=&#34;agent-management-rest-api&#34;&gt;Agent Management REST API&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Laravel • MySQL • Docker • GitHub Actions&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;A modern REST API for managing AI agents and their tasks. Built with Laravel Eloquent ORM and containerized for easy deployment.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Key Features:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;14 RESTful endpoints&lt;/li&gt;&#xA;&lt;li&gt;Laravel Sanctum authentication&lt;/li&gt;&#xA;&lt;li&gt;Eloquent ORM with model relationships&lt;/li&gt;&#xA;&lt;li&gt;Docker &amp;amp; Docker Compose deployment&lt;/li&gt;&#xA;&lt;li&gt;One-command setup scripts&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tech Stack:&lt;/strong&gt; PHP 8.2, Laravel Components, MySQL 8.0, Docker, NGINX&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/projects/rest-api&#34;&gt;View Documentation →&lt;/a&gt; | &lt;a href=&#34;https://github.com/jon-fox/rest-api-php-server-project&#34;&gt;GitHub →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

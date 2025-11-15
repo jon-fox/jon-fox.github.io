@@ -1,0 +1,23 @@
+baseURL = 'https://jon-fox.github.io/'
+languageCode = 'en-us'
+title = 'Jon Fox - Software Engineer'
+theme = 'ananke'
+
+[params]
+description = 'Portfolio of Jon Fox - Full Stack Developer'
+author = 'Jon Fox'
+
+[[menu.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menu.main]]
+name = 'Projects'
+pageRef = '/projects'
+weight = 20
+
+[[menu.main]]
+name = 'About'
+pageRef = '/about'
+weight = 30
