@@ -1,0 +1,22 @@
+# Hugo build output
+public/
+resources/_gen/
+
+# Operating System
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Temporary
+*.tmp
+*.bak
+*.cache
