@@ -1,12 +1,28 @@
 baseURL = 'https://jon-fox.github.io/'
 languageCode = 'en-us'
-title = 'Jon Fox - Machine Learning Engineer'
-theme = 'ananke'
+title = 'Jon Fox'
+theme = 'PaperMod'
 
 [params]
 description = 'Portfolio of Jon Fox - Machine Learning Engineer specializing in Applied AI Applications with backend and frontend experience'
 author = 'Jon Fox'
-custom_css = ['css/custom.css']
+ShowReadingTime = false
+ShowShareButtons = false
+ShowPostNavLinks = false
+ShowBreadCrumbs = false
+ShowCodeCopyButtons = true
+ShowRssButtonInSectionTermList = false
+ShowToc = false
+disableSpecial1stPost = true
+hidemeta = true
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/jonathan-fox-8b0a08b8/"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/jon-fox"
 
 [[menu.main]]
 name = 'Home'

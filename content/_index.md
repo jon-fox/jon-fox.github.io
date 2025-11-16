@@ -1,13 +1,7 @@
 ---
-title: 'Jon Fox'
+title: 'Home'
 date: 2025-11-15
 draft: false
----
-
-# Machine Learning Engineer
-
-Specializing in Applied AI Applications with fullstack and extensive cloud experience.
-
 ---
 
 ## Featured Project
@@ -16,9 +10,9 @@ Specializing in Applied AI Applications with fullstack and extensive cloud exper
 
 Production-ready REST API with Laravel Eloquent ORM
 
-14 RESTful endpoints  
-Laravel Sanctum authentication  
-Docker deployment
+- 14 RESTful endpoints
+- Laravel Sanctum authentication
+- Docker deployment
 
 [GitHub Repository →](https://github.com/jon-fox/rest-api-php-server-project)
 
@@ -26,10 +20,10 @@ Docker deployment
 
 ## Skills
 
-Applied AI Applications  
-Python  
-MCP Servers  
-Agents
+- Applied AI Applications
+- Python
+- MCP Servers
+- Agents
 
 ---
 

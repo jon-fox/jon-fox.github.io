@@ -4,8 +4,6 @@ date: 2025-11-15
 draft: false
 ---
 
-# About Me
-
 Machine Learning Engineer specializing in Applied AI Applications, with backend and frontend development experience in building agent systems and cloud infrastructure.
 
 ---
@@ -19,22 +17,32 @@ Machine Learning Engineer specializing in Applied AI Applications, with backend 
 ## Technical Skills
 
 **Applied AI & Agents**  
-OpenAI integration • Agent building • MCP servers • FastMCP • Intelligent systems
+OpenAI  
+Gemini  
+Agentic Pipelines  
+MCP Servers  
+FastMCP
 
 **Backend Development**  
-Python • FastAPI • RESTful APIs • API design & integration
+Python  
+FastAPI  
+RESTful APIs
 
 **Frontend Development**  
-Modern web technologies • User interfaces
+HTML and JS UIs hosted on cloud  
+Chat Interfaces with Agent/MCP backends
 
 **Cloud & Infrastructure**  
-AWS • GCP • Terraform • Docker • MySQL • NGINX • CI/CD
+AWS  
+GCP  
+Terraform  
+Docker
 
 ---
 
 ## Current Focus
 
-Building Applied AI applications with agent-based architectures and scalable cloud infrastructure.
+Building agentic pipelines with MCP servers.
 
 ---
 
