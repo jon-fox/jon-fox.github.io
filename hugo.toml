@@ -35,6 +35,11 @@ pageRef = '/projects'
 weight = 20
 
 [[menu.main]]
+name = 'Documentation'
+pageRef = '/docs'
+weight = 25
+
+[[menu.main]]
 name = 'About'
 pageRef = '/about'
 weight = 30
